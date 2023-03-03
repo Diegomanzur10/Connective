@@ -1,4 +1,6 @@
-# Solving 2 quantitative exercises
+# Solving 2 quantitative exercises and some questions
+
+**Note: for quant analysis check code/ folder. For quant questions check code/quant_questions.ipynb path** 
 
 ### Hedging Analysis using Jupyter Notebook
 
